@@ -1,0 +1,18 @@
+Direct Connect to Raspberry Pi
+https://pihw.wordpress.com/guides/direct-network-connection/
+"arp -a to search for LAN members"
+
+Setup Raspberry Pi as a WiFi AP
+https://learn.adafruit.com/setting-up-a-raspberry-pi-as-a-wifi-access-point/overview
+
+Re-Route all HTTP requests to Internal Web Server by usgin iptables
+http://www.pihomeserver.fr/en/2014/05/23/raspberry-pi-home-server-creer-hot-spot-wifi-portail-captif-22/
+
+Redirect all DNS requests
+http://serverfault.com/questions/351108/using-dnsmasq-to-resolve-all-hosts-to-the-same-address
+
+Biblebox Shared Materials
+http://biblebox.org/content/
+
+Biblebox Web Framework(BibleBox Install files)
+http://biblebox.org/downloads/
